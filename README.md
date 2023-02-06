@@ -5,9 +5,8 @@ This project consists in create a ChatBot with a recommendation system upon a fi
 
 Recommendation: Movies and books (or only movies)
 
-#### Let's build that baby
-*** Step by step:
 
+#### **Tecnologies and models used:**
 Back:
 > Recommendation 
 
