@@ -2,11 +2,11 @@
 
 ## What is this?
 
-This project implements an intelligent chatbot that provides movie and book (or movie-only) recommendations based on user preferences expressed through natural language conversation. It leverages a fine-tuned transformer model for both understanding user input and generating relevant recommendations. The application is deployed using Streamlit, providing an interactive and user-friendly experience.
+This project implements an intelligent chatbot that provides movie and tv series recommendations based on user preferences expressed through natural language conversation. It leverages a fine-tuned transformer model for both understanding user input and generating relevant recommendations. The application is deployed using Streamlit, providing an interactive and user-friendly experience.
 
 ## Description
 
-This project combines the power of conversational AI with a robust recommendation system. Users interact with the chatbot to describe their tastes and interests in movies and books. The chatbot, powered by the "facebook/blenderbot-400M-distill" model, is designed to understand these descriptions, even if they are complex or nuanced.  It can also provide detailed information about recommended items if requested.  This conversational approach allows for a more personalized and dynamic recommendation experience compared to traditional methods.
+This project combines the power of conversational AI with a robust recommendation system. Users interact with the chatbot to describe their tastes and interests in movies and tv series. The chatbot, powered by the "facebook/blenderbot-400M-distill" model, is designed to understand these descriptions, even if they are complex or nuanced.  It can also provide detailed information about recommended items if requested.  This conversational approach allows for a more personalized and dynamic recommendation experience compared to traditional methods.
 
 The recommendation engine utilizes Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.  This model generates high-quality sentence embeddings, enabling the system to capture the semantic meaning of user input and match it with relevant movies or books in the database.  This ensures that recommendations are not just based on keywords, but on a deeper understanding of the user's preferences.
 
